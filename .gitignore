@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 /codingProblem29/node_modules
+/codingProblem30/node_modules
 
 # testing
 /coverage
