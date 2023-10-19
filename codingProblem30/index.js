@@ -10,7 +10,7 @@ app.get('/message', (req, res)=>{
 });
 
 app.get('/intro', (req, res)=>{
-    res.send('Hi, I am learning full-stack web development at Internshala');
+    res.send('Hi, I am learning full-stack web development');
 });
 
 app.get('/greet/:name', (req, res)=>{
